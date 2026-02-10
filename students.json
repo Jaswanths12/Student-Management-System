@@ -1,0 +1,33 @@
+[
+  {
+    "roll": "101",
+    "name": "Rahul Sharma",
+    "marks": 88,
+    "grade": "B"
+  },
+  {
+    "roll": "102",
+    "name": "Anita Verma",
+    "marks": 92,
+    "grade": "A"
+  },
+  {
+    "roll": "103",
+    "name": "Kiran Patel",
+    "marks": 76,
+    "grade": "B"
+  },
+  {
+    "roll": "104",
+    "name": "Sneha Reddy",
+    "marks": 64,
+    "grade": "C"
+  },
+  {
+    "roll": "105",
+    "name": "Aman Singh",
+    "marks": 55,
+    "grade": "D"
+  }
+]
+
